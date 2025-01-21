@@ -119,7 +119,7 @@ public class StringOperationsEnhanced {
                System.out.println("Substring exists in the first string: " + str1.contains(substring));
 
                     break;
-case 8:
+     case 8:
 
                     System.out.print("Enter the character to replace: ");
 
